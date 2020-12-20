@@ -1,0 +1,25 @@
+body{
+background: linear-gradient(Red,Orange, Yellow,Green,Blue,Purple);
+text-align:
+center;
+color:white;
+    font-size:25;
+}
+#Welcome{
+top: 20px;
+}
+img{ 
+width:300px;
+    margin-top:20px;
+}
+.menu{
+    list-style: none;
+right: 30px;
+    top: 10px;
+    position:fixed;
+    background-color: deeppink
+}
+.links{
+float: left;
+padding:10px;
+}
